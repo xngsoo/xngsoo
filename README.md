@@ -1,37 +1,26 @@
-# 👋 Hi, I'm Seungsoo Han
+# iOS 개발자 한승수입니다
 
-iOS Developer passionate about creating **clean, performant, and intuitive** mobile experiences.  
-I focus on **UIKit**, **SwiftUI**, and modern **architecture patterns** like MVVM, ReactorKit, and TCA.
 
----
+### 🧰 기술 스택
 
-### 🧰 Tech Stack
-- **Languages:** Swift, Objective-C (basic)
-- **Frameworks:** UIKit, SwiftUI, RxSwift, ReactorKit, Combine
-- **Tools:** Tuist, Xcode, Fastlane, Firebase, Git
-- **Etc:** REST API, CoreData, Modular Architecture
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-007AFF?style=flat&logo=apple&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat&logo=swift&logoColor=white)
+![RxSwift](https://img.shields.io/badge/RxSwift-B7178C?style=flat&logo=reactivex&logoColor=white)
+![ReactorKit](https://img.shields.io/badge/ReactorKit-20232A?style=flat&logo=swift&logoColor=white)
+![Combine](https://img.shields.io/badge/Combine-0066CC?style=flat&logo=swift&logoColor=white)
 
----
-
-### 🧩 Featured Projects
-- **[Thermo](#)** — Weather-feel app using Tuist + RxSwift  
-- **[Chalna](#)** — Large-scale photo library manager with smooth grid animations  
-- **[Third Place Lounge](#)** — Social lounge app inspired by the “third place” concept  
+![Tuist](https://img.shields.io/badge/Tuist-000000?style=flat&logo=tuist&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-### ✨ About Me
-- 3-month-experienced **iOS developer** building both **hybrid** and **native** apps  
-- Interested in **performance optimization**, **UX animation**, and **architecture design**
-- Preparing to join a company that values **clean structure** and **autonomy**
+### 📫 연락하기
+
+📧 **이메일:** hanxngsoo@gmail.com  
 
 ---
 
-### 📫 Contact
-- **Email:** yourname@email.com  
-- **Portfolio:** [Notion Portfolio](#)  
-- **LinkedIn:** [linkedin.com/in/yourname](#)
-
----
-
-> “Good code is like good design — invisible, but deeply felt.”
+![GitHub Streak](https://streak-stats.demolab.com?user=xngsoo&theme=swift&hide_border=false)

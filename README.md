@@ -1,13 +1,37 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+# 👋 Hi, I'm Seungsoo Han
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xngsoo&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=xngsoo&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=xngsoo&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
+iOS Developer passionate about creating **clean, performant, and intuitive** mobile experiences.  
+I focus on **UIKit**, **SwiftUI**, and modern **architecture patterns** like MVVM, ReactorKit, and TCA.
 
-<img src="https://github.com/xngsoo/xngsoo/blob/output/github-snake-dark.svg" width="100%">
+---
+
+### 🧰 Tech Stack
+- **Languages:** Swift, Objective-C (basic)
+- **Frameworks:** UIKit, SwiftUI, RxSwift, ReactorKit, Combine
+- **Tools:** Tuist, Xcode, Fastlane, Firebase, Git
+- **Etc:** REST API, CoreData, Modular Architecture
+
+---
+
+### 🧩 Featured Projects
+- **[Thermo](#)** — Weather-feel app using Tuist + RxSwift  
+- **[Chalna](#)** — Large-scale photo library manager with smooth grid animations  
+- **[Third Place Lounge](#)** — Social lounge app inspired by the “third place” concept  
+
+---
+
+### ✨ About Me
+- 3-month-experienced **iOS developer** building both **hybrid** and **native** apps  
+- Interested in **performance optimization**, **UX animation**, and **architecture design**
+- Preparing to join a company that values **clean structure** and **autonomy**
+
+---
+
+### 📫 Contact
+- **Email:** yourname@email.com  
+- **Portfolio:** [Notion Portfolio](#)  
+- **LinkedIn:** [linkedin.com/in/yourname](#)
+
+---
+
+> “Good code is like good design — invisible, but deeply felt.”

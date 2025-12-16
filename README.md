@@ -10,7 +10,6 @@
 ![ReactorKit](https://img.shields.io/badge/ReactorKit-20232A?style=flat&logo=swift&logoColor=white)
 ![Combine](https://img.shields.io/badge/Combine-0066CC?style=flat&logo=swift&logoColor=white)
 
-![Tuist](https://img.shields.io/badge/Tuist-000000?style=flat&logo=tuist&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)

@@ -1,4 +1,4 @@
-# Seungsoo Han, iOS
+# Seungsoo Han
 
 ### Stacks
 
@@ -14,13 +14,11 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
 
 ### Contact
 
-📧 **Email:** hanxngsoo@gmail.com  
+**Email:** hanxngsoo@gmail.com  
 
----
 
 ## GitHub Stats
 <div align="center">

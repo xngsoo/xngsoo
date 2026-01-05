@@ -1,4 +1,4 @@
-# Seungsoo Han, iOS ing
+# Seungsoo Han, iOS
 
 ### Stacks
 
@@ -22,4 +22,12 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xngsoo)](https://github.com/xngsoo/github-readme-stats)
+<div align="center">
+<br>
+<a href="https://github.com/xngsoo">
+  <img height=195 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=xngsoo&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/xngsoo?tab=repositories">
+  <img height=195 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xngsoo&theme=tokyonight" />
+</a>
+</div>

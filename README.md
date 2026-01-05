@@ -22,12 +22,17 @@
 
 ---
 
+## GitHub Stats
 <div align="center">
-<br>
-<a href="https://github.com/xngsoo">
-  <img height=195 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=xngsoo&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/xngsoo?tab=repositories">
-  <img height=195 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xngsoo&theme=tokyonight" />
-</a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xngsoo&show_icons=true&theme=tokyonight&hide_border=true"height="180"/>
+</div>
+
+## Most Used Languages
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=xngsoo&langs_count=6&theme=tokyonight&hide_border=true"height="180"/>
+</div>
+
+## Solved.ac
+<div align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hanxngsoo"/>
 </div>

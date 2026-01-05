@@ -24,4 +24,4 @@
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=xngsoo&theme=swift&hide_border=false)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xngsoo)](https://github.com/xngsoo/github-readme-stats)
